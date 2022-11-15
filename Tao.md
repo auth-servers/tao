@@ -1,6 +1,5 @@
 # About This Document
 
-## WK: Testing markdown lint.
 The current version of this web page can always be found at
 [https://www.ietf.org/tao.html](https://www.ietf.org/tao.html).
 To contribute to this document or to discuss its content, please join the
